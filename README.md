@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Rossy 👋
 
-<!--
-**rossyroads/rossyroads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an automation wizard who loves turning chaotic docs into one-click buttons so that I can spend my time on things machines can't, like a perfect coffee break!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on automating deployments to Kubernetes
+- 🌱 I’m currently learning [Jenkins](https://github.com/jenkinsci)
+- 🤔 I’m looking for a guide on securing [OpenClaw](https://github.com/openclaw/openclaw)
+- 💬 Ask me about how I manage state of my personal laptop with IaC
+
+## 🛠️ My Everyday Tools
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&style=flat-square&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=vscodium&logoColor=white&style=flat-square)
+
+## 🔥 Current Project
+
+Building a dashboard for zero-knowledge automated deployments of workloads to my private cloud Kubernetes cluster.
+
+## 📫 Find Me
+
+[![Email](https://custom-icon-badges.demolab.com/badge/Email_me-blue?logo=mail&style=flat-square&logoColor=white)](mailto:git.umbrella830@slmails.com)
+[![Ko-Fi](https://img.shields.io/badge/Buy_me_a_Kofi-F16061?logo=ko-fi&style=flat-square&logoColor=white)](https://ko-fi.com/rossyrd)
