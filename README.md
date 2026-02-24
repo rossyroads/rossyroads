@@ -17,7 +17,7 @@ I'm an automation wizard who loves turning chaotic docs into one-click buttons s
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![Gitlab CI](https://img.shields.io/badge/Gitlab_CI-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -26,7 +26,7 @@ I'm an automation wizard who loves turning chaotic docs into one-click buttons s
 
 ## 🔥 Current Project
 
-Building a dashboard for zero-knowledge automated deployments of workloads to my private cloud Kubernetes cluster.
+Building a self-service web dashboard for zero-knowledge automated deployment of pre-defined workloads onto a private-cloud Kubernetes cluster.
 
 ## 📫 Find Me
 
