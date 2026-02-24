@@ -15,7 +15,6 @@ I'm an automation wizard who loves turning chaotic docs into one-click buttons s
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Gitlab CI](https://img.shields.io/badge/Gitlab_CI-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
@@ -26,7 +25,7 @@ I'm an automation wizard who loves turning chaotic docs into one-click buttons s
 
 ## 🔥 Current Project
 
-Building a self-service web dashboard for zero-knowledge automated deployment of pre-defined workloads onto a private-cloud Kubernetes cluster.
+Building an awesome self-service web dashboard with Vite.js, Spring Boot and Kafka for zero-knowledge automated deployment of pre-defined workloads onto a HA Kubernetes cluster that I manage in private-cloud.
 
 ## 📫 Find Me
 
